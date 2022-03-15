@@ -1,0 +1,22 @@
+{
+  "name": "request-multiple-urls",
+  "version": "1.0.0",
+  "description": "Get multiple urls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fromrupabali/request-multiple-urls.git"
+  },
+  "keywords": [
+    "GET_URLS"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fromrupabali/request-multiple-urls/issues"
+  },
+  "homepage": "https://github.com/fromrupabali/request-multiple-urls#readme"
+}
