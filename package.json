@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/fromrupabali/request-multiple-urls/issues"
   },
-  "homepage": "https://github.com/fromrupabali/request-multiple-urls#readme"
+  "homepage": "https://github.com/fromrupabali/request-multiple-urls#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
 }
